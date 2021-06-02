@@ -63,13 +63,13 @@
             
                 
                 <div class="collapse navbar-collapse" id="myNavbar">
-                      <div class="logo-text" style="text-align:left"><a href="logo"><img align="left" src="http://206.189.45.97/~mesh1//public_html/wp-content/themes/32984283_Freo_Website/images/social-share.png" alt="FAC"></a>Fremantle Center<br>Concert Series
+                      <div class="logo-text" style="text-align:left"><a href="logo"><img align="left" src="http://206.189.45.97/~mesh8/wp-content/themes/32984283_Freo_Website/images/social-share.png" alt="FAC"></a>Fremantle Center<br>Concert Series
                   
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="#">HOME</a></li>
+                        <li class="active"><a href="http://206.189.45.97/~mesh8/" target="_self">HOME</a></li>
                         <li><a href="#">About Us</a></li>
-                        <li><a href="booking.html" target="_self">Booking</a></li>
-                        <li><a href="genres.html" target="_self">Genres</a></li>
+                        <li><a href="http://206.189.45.97/~mesh8/?page_id=228" target="_self">Booking</a></li>
+                        <li><a href="http://206.189.45.97/~mesh8/?page_id=232" target="_self">Genres</a></li>
                         <li><a href="#">Artists</a></li>
                     </ul>
 
