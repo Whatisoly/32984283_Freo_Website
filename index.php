@@ -9,7 +9,7 @@
     <p class="p-text">Come appreciate good electro music. That will give you the energy for anything.</p>
       <p class="click"><a href="genres.html" target="_self">Click here for more</a></p>
   </div>
-  <img class="img-responsive img-1" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/electro-band.png" alt="Electro-band">
+  <img class="img-responsive img-1" src="http://206.189.45.97/~mesh1/wp-content/themes/32984283_Freo_Website/images/electro-band.png" alt="Electro-band">
 </div>
           
     <div class="col-md-6">
