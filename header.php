@@ -63,7 +63,7 @@
             
                 
                 <div class="collapse navbar-collapse" id="myNavbar">
-                      <div class="logo-text" style="text-align:left"><a href="logo"><img align="left" src="images/social-share.png" alt="FAC"></a>Fremantle Center<br>Concert Series
+                      <div class="logo-text" style="text-align:left"><a href="logo"><img align="left" src="http://206.189.45.97/~mesh1//public_html/wp-content/themes/32984283_Freo_Website/images/social-share.png" alt="FAC"></a>Fremantle Center<br>Concert Series
                   
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="#">HOME</a></li>
