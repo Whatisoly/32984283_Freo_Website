@@ -49,7 +49,7 @@
       
     </head>
   <body>
-     <header class="container-fluid bg-1">
+     <header class="container-fluid bg-1"<?php if ( get_field(' headerbackgroundimage ') ) { echo 'style="background: url(' . get_field(' headerbackgroundimage ') . ')"'; } ?>>
 
        <nav class="navbar">
             <div class="container-fluid">
@@ -78,7 +78,7 @@
             </div>
         </nav>
         <div class="container front">
-            <h1>New Sound<br>Experience</h1>
-            <a href="booking.html" target="_self" class="btn btn-default btn-lg">Get your Ticket</a>
+             <h1><?php the_field('maintagline'); ?></h1>
+         <a href="<?php the_field('get_your_ticket'); ?>" class="btn btn-default btn-lg">Get your Ticket</a>
         </div><!-- container-->
     </header>
