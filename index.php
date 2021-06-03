@@ -24,7 +24,7 @@ wp_reset_query();?>
          <div class="text-1">
     <h4>Electro</h4>
     <p class="p-text">Come appreciate good electro music. That will give you the energy for anything.</p>
-      <p class="click"><a href="genres.html" target="_self">Click here for more</a></p>
+      <p class="click"><a href="http://206.189.45.97/~mesh8/?page_id=232" target="_self">Click here for more</a></p>
   </div>
   <img class="img-responsive img-1" src="http://206.189.45.97/~mesh8/wp-content/themes/32984283_Freo_Website/images/electro-band.png" alt="Electro-band">
 </div>
@@ -35,7 +35,7 @@ wp_reset_query();?>
   <div class="text-2">
     <h4>Classic</h4>
     <p class="p-text">Many various Classic artists, who will make you revisite your classical.</p>
-     <p class="click"><a href="genres.html" target="_self">Click here for more</a></p>
+     <p class="click"><a href="http://206.189.45.97/~mesh8/?page_id=232" target="_self">Click here for more</a></p>
   </div>
 <!--</div>-->
     </div>
@@ -46,7 +46,7 @@ wp_reset_query();?>
          <div class="text-3">
     <h4>Rock</h4>
     <p class="p-text">Which style will you prefer? Indian rock, Hard rock, or Classic rock?</p>
-       <p class="click"><a href="genres.html" target="_self">Click here for more</a></p>
+       <p class="click"><a href="http://206.189.45.97/~mesh8/?page_id=232" target="_self">Click here for more</a></p>
   </div>
   <img class="img-responsive img-3" src="http://206.189.45.97/~mesh8/wp-content/themes/32984283_Freo_Website/images/rock-band.png" alt="Rock-band">
 </div>
@@ -57,7 +57,7 @@ wp_reset_query();?>
   <div class="text-4">
     <h4>Jazz</h4>
     <p class="p-text">For the fan of brass instrument. You will find your happiness there.</p>
-      <p class="click"><a href="genres.html" target="_self">Click here for more</a></p>
+      <p class="click"><a href="http://206.189.45.97/~mesh8/?page_id=232" target="_self">Click here for more</a></p>
   </div>
 <!--</div>-->
     </div>
